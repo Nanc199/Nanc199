@@ -1,7 +1,6 @@
 # Hi 👋, I'm Nancy
 ---
 # MERN Stack Developer | Exploring AI and Ml| Leveraging AI Tools | CSE'27
----
 
 
 ## 👩‍💻 About Me
@@ -16,6 +15,8 @@ I enjoy building practical projects and improving systems through iteration.
 My development approach:
 
 Build → Test → Improve → Repeat
+
+---
 
 ## 🔐 Currently Exploring
 
@@ -55,6 +56,7 @@ Real-Time Emotion-Based Music Player
 
 • Strengthened team collaboration, time management, and UI/UX decision-making in a real-time, mentor-guided internship environment.
 
+---
 
 ## Goals
 
