@@ -35,7 +35,7 @@ JavaScript • React.js • Node.js • Express.js • MongoDB • HTML • CSS 
 
 ## ⭐ Featured Projects
 
-• 🍔 Foodgram  
+• 🍔 FoodHub
 Social Food Discovery & Ordering Platform
 
 • 🎧 Moody Player  
