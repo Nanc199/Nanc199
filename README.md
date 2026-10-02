@@ -1,10 +1,10 @@
 # Hi 👋, I'm Nancy
 ---
-# MERN Stack Developer | Exploring AI and Ml| Leveraging AI Tools | CSE'27
+# MERN Stack Developer | Exploring AI and Ml| Building Practical Projects| CSE'27@ GHEC Bilaspur
 
 
 ## 👩‍💻 About Me
-🎓 B.Tech Computer Science Engineering (AI & Data Science) | CSE'27| 
+🎓 B.Tech Computer Science Engineering (AI & Data Science) | CSE'27
 
 🏫Govt.Hydro Engg College,Bilaspur
 
