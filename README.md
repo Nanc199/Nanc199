@@ -64,6 +64,7 @@ Real-Time Emotion-Based Music Player
 • Strengthen secure development practices
 
 • Explore AI and ML concepts
+
 • Continuously improve as a developer
 
 ---
