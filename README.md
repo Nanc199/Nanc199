@@ -3,6 +3,7 @@
 
 ## 👩‍💻 About Me
 🎓 B.Tech Computer Science Engineering (AI & Data Science) | CSE'27| 
+
 🏫Govt.Hydro Engg College,Bilaspur
 
 🚀 MERN Stack developer focused on building scalable full-stack web applications.
@@ -51,7 +52,7 @@ Real-Time Emotion-Based Music Player
 
 • Strengthened team collaboration, time management, and UI/UX decision-making in a real-time, mentor-guided internship environment.
 
-##  Goals
+## Goals
 
 • Build impactful full-stack MERN applications
 • Strengthen secure development practices
