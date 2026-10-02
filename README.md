@@ -19,11 +19,9 @@ Build → Test → Improve → Repeat
 ---
 
 ## 🔐 Currently Exploring
-
 • RAG and LLM based applications
 • Web security practices  
 • AI-assisted development workflows  
-
 
 ---
 
