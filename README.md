@@ -1,5 +1,8 @@
 # Hi 👋, I'm Nancy
+---
 # MERN Stack Developer | Exploring AI and Ml| Leveraging AI Tools | CSE'27
+---
+
 
 ## 👩‍💻 About Me
 🎓 B.Tech Computer Science Engineering (AI & Data Science) | CSE'27| 
@@ -51,6 +54,7 @@ Real-Time Emotion-Based Music Player
 • Built and refined responsive UI components, implemented form validation, routing, and API integration, while following best practices for clean and maintainable code.
 
 • Strengthened team collaboration, time management, and UI/UX decision-making in a real-time, mentor-guided internship environment.
+
 
 ## Goals
 
