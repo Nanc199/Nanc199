@@ -61,8 +61,10 @@ Real-Time Emotion-Based Music Player
 ## Goals
 
 • Build impactful full-stack MERN applications
+
 • Strengthen secure development practices
-• Explore cybersecurity concepts
+
+• Explore AI and ML concepts
 • Continuously improve as a developer
 
 ---
