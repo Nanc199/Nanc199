@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi 👋, I'm Nancy
+# MERN Stack Developer | Exploring AI and Ml| Leveraging AI Tools | CSE'27
 
-<!--
-**Nanc199/Nanc199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+🎓 B.Tech Computer Science Engineering (AI & Data Science) | CSE'27| 
+🏫Govt.Hydro Engg College,Bilaspur
 
-Here are some ideas to get you started:
+🚀 MERN Stack developer focused on building scalable full-stack web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical projects and improving systems through iteration.
+
+My development approach:
+
+Build → Test → Improve → Repeat
+
+### My Approach
+
+Learn → Build → Test → Improve
+🔐 Currently Exploring
+•  RAG and LLM-based applications
+• Secure authentication systems
+• Web security practices
+• AI-assisted development workflows
+
+Build → Test → Improve → Repeat
+
+## 🔐 Currently Exploring
+
+• Cybersecurity fundamentals  
+• Secure authentication systems  
+• Web security practices  
+• AI-assisted development workflows  
+
+---
+
+## 💻 Languages and Tools
+
+JavaScript • React.js • Node.js • Express.js • MongoDB • HTML • CSS • Python • Git • GitHub • Postman • ChatGPT • Gemini
+
+---
+
+## ⭐ Featured Projects
+
+• 🍔 Foodgram  
+Social Food Discovery & Ordering Platform
+
+• 🎧 Moody Player  
+Real-Time Emotion-Based Music Player
+
+---
+
+## 🧠 Experience
+
+### Full-Stack Web Development Trainee & Intern
+
+**Summer School – IIT Jammu (Internship & Training Program ’25)**  
+📍 Jammu, India | Jun 2025 – Aug 2025
+
+• Gained hands-on experience with React.js, Tailwind CSS, Node.js, MongoDB, and GitHub through structured training and guided development tasks.
+
+• Built and refined responsive UI components, implemented form validation, routing, and API integration, while following best practices for clean and maintainable code.
+
+• Strengthened team collaboration, time management, and UI/UX decision-making in a real-time, mentor-guided internship environment.
+
+##  Goals
+• Build impactful full-stack MERN applications
+• Strengthen secure development practices
+• Explore cybersecurity concepts
+• Continuously improve as a developer
+
+
+
+             
+
