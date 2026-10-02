@@ -13,17 +13,6 @@ My development approach:
 
 Build → Test → Improve → Repeat
 
-### My Approach
-
-Learn → Build → Test → Improve
-🔐 Currently Exploring
-•  RAG and LLM-based applications
-• Secure authentication systems
-• Web security practices
-• AI-assisted development workflows
-
-Build → Test → Improve → Repeat
-
 ## 🔐 Currently Exploring
 
 • Cybersecurity fundamentals  
@@ -68,6 +57,8 @@ Real-Time Emotion-Based Music Player
 • Strengthen secure development practices
 • Explore cybersecurity concepts
 • Continuously improve as a developer
+
+---
 
 
 
