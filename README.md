@@ -63,6 +63,7 @@ Real-Time Emotion-Based Music Player
 • Strengthened team collaboration, time management, and UI/UX decision-making in a real-time, mentor-guided internship environment.
 
 ##  Goals
+
 • Build impactful full-stack MERN applications
 • Strengthen secure development practices
 • Explore cybersecurity concepts
