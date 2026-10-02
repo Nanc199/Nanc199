@@ -37,9 +37,6 @@ JavaScript • React.js • Node.js • Express.js • MongoDB • HTML • CSS 
 • 🍔 FoodHub
 Social Food Discovery & Ordering Platform
 
-• 🎧 Moody Player  
-Real-Time Emotion-Based Music Player
-
 ---
 
 ## 🧠 Experience
