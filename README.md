@@ -19,7 +19,6 @@ Build → Test → Improve → Repeat
 ---
 
 ## 🔐 Currently Exploring
-
 • RAG and LLM based applications
 • Secure authentication systems  
 • Web security practices  
