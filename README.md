@@ -34,8 +34,7 @@ JavaScript • React.js • Node.js • Express.js • MongoDB • HTML • CSS 
 
 ## ⭐ Featured Projects
 
-• 🍔 FoodHub
-Social Food Discovery & Ordering Platform
+• 🍔 FoodHub - Social Food Discovery & Ordering Platform
 
 ---
 
